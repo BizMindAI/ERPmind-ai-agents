@@ -1,1 +1,1 @@
-# bizmint-ai-agents
+# ERPmind-ai-agents
